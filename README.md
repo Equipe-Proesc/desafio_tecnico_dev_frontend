@@ -4,7 +4,9 @@
 
 Olá, bem vindo(a) ao desafio técnico do Proesc.com! 
 
-Nesse projeto você vai precisar desenvolver uma aplicação que será um book de Harry Potter, exemplo [aqui](https://potterdb.com/), para isso você poderá usar a API do PotterDB, [documentação aqui](https://docs.potterdb.com/).
+Nesse projeto você vai precisar desenvolver uma aplicação que será um book de Harry Potter, para isso você deverá usar a API do PotterDB, [documentação aqui](https://docs.potterdb.com/).
+
+Exemplo de uso da api [aqui](https://potterdb.com/).
 
 ### Tecnologias a serem usadas
 - Linguagens: JavaScript ou TypeScript
